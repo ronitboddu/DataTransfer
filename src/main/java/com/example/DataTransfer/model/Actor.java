@@ -1,4 +1,4 @@
-package com.example.DataTransfer;
+package com.example.DataTransfer.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
